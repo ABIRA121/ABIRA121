@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Pius Abira
+# 💫👋 Hi, I'm Pius Abira
+
 
 💻 **Programmer | Ethical Tunneling Enthusiast | Full Stack Learner**
 
@@ -14,7 +14,7 @@ Currently, I’m learning how to design reliable and scalable full-stack solutio
 - 🔐 Interested in **VPNs, server security, firewalls, and encryption**  
 - 🖥️ Exploring **Django** for Hotspot Billing and **MikroTik** integration with M-Pesa Daraja API  
 - 💡 Focused on clean, test-style code explanations and production-ready configurations  
-- 🧩 I use **Debian 11** for server setups and **Windows Terminal** for development  Fun fact
+- 🧩 I use **Debian 11** for server setups and **Windows Terminal** for development  
 
 
 # 💻 Tech Stack:
