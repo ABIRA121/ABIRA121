@@ -1,5 +1,20 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+👋 Hi, I'm Pius Abira
+
+💻 **Programmer | Ethical Tunneling Enthusiast | Full Stack Learner**
+
+I'm a passionate developer from Kenya who enjoys building smart, secure, and practical systems — from **VPN tunneling servers** and **networking backends** to **modern web applications** using **React, Tailwind CSS, and Python**.  
+Currently, I’m learning how to design reliable and scalable full-stack solutions, integrating web tech with networking and automation.
+
+---
+
+### 🚀 About Me
+- 🌐 Working on **VPS tunneling servers** (HTTP Custom, WebSocket, Shadowsocks, and V2Ray)  
+- 🧠 Learning **React**, **Tailwind CSS**, **Python**, and **Java**  
+- 🔐 Interested in **VPNs, server security, firewalls, and encryption**  
+- 🖥️ Exploring **Django** for Hotspot Billing and **MikroTik** integration with M-Pesa Daraja API  
+- 💡 Focused on clean, test-style code explanations and production-ready configurations  
+- 🧩 I use **Debian 11** for server setups and **Windows Terminal** for development  Fun fact
 
 
 # 💻 Tech Stack:
