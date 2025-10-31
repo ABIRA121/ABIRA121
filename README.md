@@ -1,7 +1,7 @@
 # 💫👋 Hi, I'm Pius Abira
 
 
-💻 **Programmer | Ethical Tunneling Enthusiast | Full Stack Learner| Happy to Collaborate on projects**
+💻 **Programmer | Ethical Tunneling Enthusiast | Full Stack Learner| Happy to Collaborate on Projects**
 
 I'm a passionate developer from Kenya who enjoys building smart, secure, and practical systems — from **VPN tunneling servers** and **networking backends** to **modern web applications** using **React, Tailwind CSS, and Python**.  
 Currently, I’m learning how to design reliable and scalable full-stack solutions, integrating web tech with networking and automation.
