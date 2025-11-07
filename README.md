@@ -10,7 +10,7 @@ Currently, I’m learning how to design reliable and scalable full-stack solutio
 
 ### 🚀 About Me
 - 🌐 Working on **VPS tunneling servers** (HTTP Custom, WebSocket, Shadowsocks, and V2Ray)  
-- 🧠 Learning **React**, **Tailwind CSS**, **Python**, and **Java**  
+- 🧠 Learning **React**, **Tailwind CSS**, **Python**, and **Java** and **PHP**  
 - 🔐 Interested in **VPNs, server security, firewalls, and encryption**  
 - 🖥️ Exploring **Django** for Hotspot Billing and **MikroTik** integration with M-Pesa Daraja API  
 - 💡 Focused on clean, test-style code explanations and production-ready configurations  
